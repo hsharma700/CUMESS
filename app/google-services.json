@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "53705402295",
+    "firebase_url": "https://cumess-d04a1-default-rtdb.firebaseio.com",
+    "project_id": "cumess-d04a1",
+    "storage_bucket": "cumess-d04a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53705402295:android:9d554ec5615dc22587aa32",
+        "android_client_info": {
+          "package_name": "com.example.admin_cumess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53705402295-bgrg3u65f9ofk4uur2iihdpvs7c00eor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUrTM6gVobnfjOp1AsRmbWnHTJBudcW3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53705402295-bgrg3u65f9ofk4uur2iihdpvs7c00eor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53705402295:android:48c88b6b08b3232187aa32",
+        "android_client_info": {
+          "package_name": "com.example.cumess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53705402295-bgrg3u65f9ofk4uur2iihdpvs7c00eor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUrTM6gVobnfjOp1AsRmbWnHTJBudcW3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53705402295-bgrg3u65f9ofk4uur2iihdpvs7c00eor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
